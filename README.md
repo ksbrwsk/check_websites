@@ -3,6 +3,6 @@
 Installation:
 -------------
 
-´´´bash
+```bash
 pyinstaller ksbrwsk/check_websites.py       
-´´´
+```
